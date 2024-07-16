@@ -1,4 +1,6 @@
+import { Button } from "@mantine/core"
 import { CountButton } from "~features/count-button"
+import "@mantine/core/styles.css"
 
 import "~style.css"
 
